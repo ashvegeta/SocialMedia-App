@@ -1,0 +1,3 @@
+[submodule "SocialMediaApp-Frontend"]
+	path = SocialMediaApp-Frontend
+	url = https://github.com/ashvegeta/SocialMediaApp-Frontend.git
